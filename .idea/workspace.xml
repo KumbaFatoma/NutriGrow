@@ -2,30 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="619729f9-669b-4d1c-98f5-71bea007f30a" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/PythonProject2.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/App/assets.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/App/auth.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/App/booking.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/App/charts/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/App/charts/gender_chart.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/App/charts/line_graph.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/App/charts/status_chart.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/App/dashboard.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/App/database.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/App/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/App/reports.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/App/ui/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/App/ui/dashboard.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/App/ui/farmer_directory.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/App/ui/sidebar.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Final_Project_Group_10.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -65,7 +44,7 @@
     "RunOnceActivity.git.unshallow": "true",
     "RunOnceActivity.typescript.service.memoryLimit.init": "true",
     "codeWithMe.voiceChat.enabledByDefault": "false",
-    "git-widget-placeholder": "master",
+    "git-widget-placeholder": "Merging main",
     "last_opened_file_path": "C:/Users/KANU/PycharmProjects/PythonProject2",
     "nodejs_package_manager_path": "npm",
     "settings.editor.selected.configurable": "vcs.Git",
@@ -157,7 +136,7 @@
       <workItem from="1782054016137" duration="23289000" />
       <workItem from="1782094900050" duration="20641000" />
       <workItem from="1782119432390" duration="381000" />
-      <workItem from="1782121987657" duration="1024000" />
+      <workItem from="1782121987657" duration="3993000" />
     </task>
     <servers />
   </component>
